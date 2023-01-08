@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattjackson1
 - 👀 I’m interested in all things front end!
-- 🌱 I’m currently learning all I can, but particularly ionic
+- 🌱 I’m currently learning all I can, but particularly leadership
 - 📫 Reach me on twitter @mattush
 
 <!---
