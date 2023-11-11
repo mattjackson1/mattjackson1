@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattjackson1
 - 👀 I’m interested in all things front end!
 - 🌱 I’m currently learning all I can, but particularly leadership
-- 📫 Reach me on twitter @mattush
+- 📫 Reach me on X @mattush
 
 <!---
 mattjackson1/mattjackson1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
